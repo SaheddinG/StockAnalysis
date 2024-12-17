@@ -1,0 +1,7 @@
+C:\Users\sahed\OneDrive\Destkop\FINAL PROJECT 2\WindowsFormsApp1\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\sahed\OneDrive\Destkop\FINAL PROJECT 2\WindowsFormsApp1\obj\Debug\Project_candlesticks.Form_Candlesticks.resources
+C:\Users\sahed\OneDrive\Destkop\FINAL PROJECT 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sahed\OneDrive\Destkop\FINAL PROJECT 2\WindowsFormsApp1\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\sahed\OneDrive\Destkop\FINAL PROJECT 2\WindowsFormsApp1\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\sahed\OneDrive\Destkop\FINAL PROJECT 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sahed\OneDrive\Destkop\FINAL PROJECT 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
